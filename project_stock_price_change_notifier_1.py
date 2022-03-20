@@ -7,9 +7,9 @@ from datetime import datetime as dt
 import yagmail
 import os
 
-sender = 'likithadask92@gmail.com'
+sender = 'xxxxx@gmail.com'
 PASSWORD = 'tdejqgdfaskmizxe'
-receiver = 'likithakasetty@gmail.com'
+receiver = 'yyyyy@gmail.com'
 
 def get_drvier():
     # Set options to make browsing easier
